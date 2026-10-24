@@ -29,3 +29,7 @@ Homestead.json
 .env.production
 .phpactor.json
 auth.json
+
+.env
+node_modules/
+vendor/
